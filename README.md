@@ -6,7 +6,6 @@
 Resumo:
 - Preparando o Ambiente:  
 Criamos uma cópia do projeto feito em FIGMA para utilizarmos durante o curso.
-</br>
 - Base de HTML
 Analisamos o FIGMA do projeto "Alura+". 
 Criamos uma pasta para colocar os arquivos. 
@@ -23,6 +22,20 @@ Instalamos a extensão Live-Server que abre uma nova janela no navegador com a U
 - Inserindo imagens:
 Baixamos e gravamos as imagens do FIGMA na pasta "img" da pasta do projeto do computador. Entendemos a diferenças de utilização em inserir imagem de fundo com background-image e de inserir com a tag <img> .
 Inserimos e aplicamos a imagem de fundo e a imagem do "Combo+" no projeto.
+
+
+### Modulo 2: A dupla HTML e CSS
+Resumo:
+Criando um botão:  Criamos um botão usando uma âncora para o link do site da Alura, estilizamos o botão e definimos o display do botão para block, para ele ocupar todo o bloco.
+Grid e continuação:  Conseguimos definir o espaço do botão, sem que ele ocupe todo o espaço do bloco(porque não é isso que está no layout) utilizando display: grid e grid-template-columns.
+Lidando com fontes: 
+Importamos a fonte geral no site . Chamada 'Inter', com 16px, peso 400 e 700. Depois alteramos o tamanho do aviso, do título e retiramos a decoração dos botões. 
+
+Material de estudo complementar:
+1 - padrão de nomenclatura: o Block Element Modifier (BEM): artigo “Nome de classes no CSS”, produzido pelo instrutor Yuri Padilha.\
+2 - Uso de classes: artigo “Qual a diferença entre id e class”.
+3 - Unidade de medida relativa “em” na criação do botão: artigo “Guia de unidades no CSS” do instrutor Paulo Scalercio
+4 - Uso de Grid  “Criando layouts com CSS Grid Layout”, produzido pelo Matheus Castiglioni.
 
 - A motivação da Imagem
 "  Quando estamos inserindo uma imagem, é importante pensar: essa imagem faz parte do conteúdo da página? Se não, é possível colocá-la como background-image() de algum elemento."
