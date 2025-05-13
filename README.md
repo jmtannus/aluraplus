@@ -88,5 +88,5 @@ Resumo:
 :link: detecta quando é um link <a> que nunca foi clicado antes.
 ```
 
- Para quem quiser er mais sobre pseudo-classes no MDN Web Docs
+ Para quem quiser er mais sobre pseudo-classes no [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes).
 
