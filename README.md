@@ -67,3 +67,26 @@ Afastamos elementos dos cantos da tela e de outros elementos; Aprendemos diversa
 - Para saber mais: Inline-block:
 Sugestão de leitura do artigo [“Pare de chutar e aprenda como funciona o display: inline-block”](https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-inline-block-4e6cba2f19d4)
 
+
+### Modulo 4: Finalizando nossa página
+Resumo:
+- Flexbox: Aprendemos a alinhar itens com o Flexbox e a tirar os estilos de listas, os pontinhos, aplicando "list-style-type: none;". Usamos flex-containers, flex-itens, flex-direction;
+- O desafio do footer: Criamos o container footer e reforçamos o que foi ensinado adicionando imagem (logomarca), criando a lista de links e textos. 
+- Faça como eu fiz: estilizando o footer: Estilizamos o footer com CSS.
+- Pseudo-classes: Acrescentamos estilos que não existem no protótipo, que é passar o mouse por cima do link e ele troca de cor utilizando pseudo-classes ( "a:" {})
+- Para saber mais: CSS interativo?: Sobre as pseudo-classes hover e active.
+
+```
+:focus: é aplicada quando um elemento está em foco, pode ser pelo clique do mouse ou seleção pelo teclado. Um exemplo é quando os campos de escrita em formulários estão selecionados para o usuário escrever.
+
+:hover: detecta quando um usuário está com o mouse em cima do elemento, sem necessariamente estar clicando.
+
+:active: detecta quando o elemento está ativo, quando há uma interação, por exemplo: o link <a> está sendo clicado.
+
+:visited: detecta quando o link <a> já foi visitado, ou seja, se você já clicou anteriormente naquele link.
+
+:link: detecta quando é um link <a> que nunca foi clicado antes.
+```
+
+ Para quem quiser er mais sobre pseudo-classes no MDN Web Docs
+
