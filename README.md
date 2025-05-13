@@ -43,7 +43,7 @@ Conseguimos definir o espaço do botão, sem que ele ocupe todo o espaço do blo
 Importamos a fonte geral no site chamada 'Inter', com 16px, peso 400 e 700. Depois alteramos o tamanho do aviso, do título e retiramos a decoração dos botões. 
 
 ### Material de estudo complementar:
-1 - padrão de nomenclatura: o Block Element Modifier (BEM): artigo “Nome de classes no CSS”, produzido pelo instrutor Yuri Padilha.\
-2 - Uso de classes: artigo “Qual a diferença entre id e class”.\
-3 - Unidade de medida relativa “em” na criação do botão: artigo “Guia de unidades no CSS” do instrutor Paulo Scalercio.\
-4 - Uso de Grid  “Criando layouts com CSS Grid Layout”, produzido pelo Matheus Castiglioni.
+1 - padrão de nomenclatura: o Block Element Modifier (BEM): artigo [“Nome de classes no CSS”](https://www.alura.com.br/artigos/nomes-de-classes-no-css), produzido pelo instrutor Yuri Padilha.\
+2 - Uso de classes: artigo [“Qual a diferença entre id e class”](https://www.alura.com.br/artigos/qual-diferenca-entre-id-e-class).\
+3 - Unidade de medida relativa “em” na criação do botão: artigo [“Guia de unidades no CSS” do instrutor Paulo Scalercio](https://www.alura.com.br/artigos/guia-de-unidades-no-css).\
+4 - Uso de Grid  [“Criando layouts com CSS Grid Layout”](https://www.alura.com.br/artigos/criando-layouts-com-css-grid-layout), produzido pelo Matheus Castiglioni.
