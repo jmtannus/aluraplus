@@ -47,3 +47,23 @@ Importamos a fonte geral no site chamada 'Inter', com 16px, peso 400 e 700. Depo
 2 - Uso de classes: artigo [“Qual a diferença entre id e class”](https://www.alura.com.br/artigos/qual-diferenca-entre-id-e-class).\
 3 - Unidade de medida relativa “em” na criação do botão: artigo [“Guia de unidades no CSS” do instrutor Paulo Scalercio](https://www.alura.com.br/artigos/guia-de-unidades-no-css).\
 4 - Uso de Grid  [“Criando layouts com CSS Grid Layout”](https://www.alura.com.br/artigos/criando-layouts-com-css-grid-layout), produzido pelo Matheus Castiglioni.
+
+### Modulo 3: Posicionando elementos
+Resumo:
+- Margins e paddings: 
+Ajustamos o espaçamento. Aprendemos a diferença entre margin e padding;
+Afastamos elementos dos cantos da tela e de outros elementos; Aprendemos diversas maneiras de determinar os valores e as direções das margens dentro da propriedade margin;
+- Separando elementos: 
+"Margins criam espaço ao redor do elemento e paddings criam dentro dele, ou seja, o padding afasta o conteúdo da borda e não um elemento do outro. Por fim, também podemos configurar valores diferentes para cada lado do elemento."
+- Alinhamentos: Alinhamos o texto e imagem no centro da coluna, porque nós definimos apenas as colunas no grid. E centralizamos o texto, usando:
+    align-items: center;
+    text-align: center;
+
+- Centralizando elementos:
+<div class="container"><h2 class="container__titulo">Alura Cats!</h2><img src="https://thecatapi.com/api/images/get?format=src&type=gif" alt=”imagem de gatos” class="container__imagem"><p>Para mais informações:</p><a href="www.alura.com.br" class="container__botao">Acesse a Alura<a></div>
+
+- Construindo nova section e Reutilizando estilos: Aprendemos a reutilizar elementos e seus estilos além de alterar os elementos, para personalizá-los, atribuindo mais de uma classe nos elementos para incluir novas estilizações além das existentes.
+
+- Para saber mais: Inline-block:
+Sugestão de leitura do artigo [“Pare de chutar e aprenda como funciona o display: inline-block”](https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-inline-block-4e6cba2f19d4)
+
